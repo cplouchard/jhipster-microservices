@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.jhipster.store"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "microservice",
+    "baseName": "store",
+    "packageName": "org.jhipster.store",
+    "packageFolder": "org/jhipster/store",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzZhODI3ZWE4M2ZiOTVmNWEzOTk5MzJjNzAyNmZhYzViYzI2NDUxMjNjYmE1NGM2MjA5NjZlMWUzZTJmNGI1YzJmOGRkZmJjMmFlYmVkY2ExNDU1YjZkZDZmMjVlMmZjYTZjNzljY2EyNTRiZjJjMDgzYjk4YWY2YmI4ZGZiNzM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1586761028183,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
