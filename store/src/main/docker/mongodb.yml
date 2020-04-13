@@ -1,4 +1,4 @@
-version: '2'
+version: '2.1'
 services:
   store-mongodb:
     image: mongo:4.2.3
